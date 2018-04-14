@@ -36,8 +36,8 @@ makeCity("Toronto, ON, CA", 2011, "NA", "https://www.toronto.ca/wp-content/uploa
 makeCity("Gulf Shores, AL", 2017, "NA", "https://static.rootsrated.com/image/upload/s--XdtIB5fD--/t_rr_large_natural/kxnmyweztfq9lbig4xms.jpg", ["Gulf State Park", "Battleship Memorial Park", "Gulf Coast Escape Room", "Gulf Shores Museum", "Fort Morgan" ])
 makeCity("Myrtle Beach, SC", 2003, "NA", "http://2017images.imgix.net/myrtlebeachresorts1.jpg", ["Myrtle Beach", "Boardwalk", "Ripley's Believe It or Not", "Myrtle Beach Thrill Rides", "Plyler Park"])
 makeCity("Indianapolis, IN", 2018, "NA", "http://www.allisontransmission.com/images/default-source/careers/5-1-2-bi-img-5-1-2.jpg", ["Lucas Oil Stadium", "NCAA Hall of Champions", "Brickyard 400", "Museum of Contemporary Art", "Indianapolis Catacombs"])
-makeCity("Orlando, FL", 2004, "NA", "http://greatruns.com/wp-content/uploads/2016/06/downtownOrlando-web-700x469.jpg", ["Walt Disney World", "Universal Orlando", "SeaWorld", "Orlando Science Center, Cornell Fine Arts Museum"])
-makeCity("Pittsburgh, PA", 2010, "NA", "https://vacationidea.com/pix/img25Hy8R/destinations/best-things-to-do-in-pittsburgh-pa_f.jpg", [])
+makeCity("Orlando, FL", 2004, "NA", "http://greatruns.com/wp-content/uploads/2016/06/downtownOrlando-web-700x469.jpg", ["Walt Disney World", "Universal Studios", "SeaWorld", "Orlando Science Center, Cornell Fine Arts Museum", "Discovery Cove" ])
+makeCity("Pittsburgh, PA", 2010, "NA", "https://vacationidea.com/pix/img25Hy8R/destinations/best-things-to-do-in-pittsburgh-pa_f.jpg", ["Andy Warhol Museum", "Phipps Conservatory and Botanical Gardens", "Carnegie Museum of Natural History", "Carnegie Science Center", "Carnegie Museum of Art"])
 makeCity("St. Louis, MO", 2010, "NA", "https://upload.wikimedia.org/wikipedia/commons/b/b9/St_Louis_Gateway_Arch.jpg", ["Gateway Arch", "City Museum", "Saint Louis Science Center", "National Blues Museum", "Old Courthouse"])
 
 //save database to storage
